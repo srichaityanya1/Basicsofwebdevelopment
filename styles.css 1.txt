@@ -1,0 +1,13 @@
+/style.css/
+/Body styling/
+body
+{
+font-family:algerian;
+background-color:pink;
+}
+/Header styling/
+h1{
+color:red;
+text-align:center;
+padding:20px;
+}
